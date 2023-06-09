@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-## 👋 Hello, I'm Tadael Shewarega!<br><br>### 🌐 Full Stack Developer | Node.js | React | Express<br><br>### 🏆 Competitive Programming Enthusiast<br><br>🔭 I'm passionate about building robust and scalable web applications using cutting-edge technologies. With a strong foundation in full-stack development, I specialize in Node.js, React, and Express.<br><br>
-🚀 I am constantly expanding my skill set and staying up to date with the latest trends in web development. I'm a strong believer in clean code, test-driven development, and continuous learning.<br><br>🌟 Let's collaborate on exciting projects and create amazing web experiences together. Feel free to reach out to me via email tadaelshewaregagebre30@gmail.com.<br>
+## 👋 Hello, I'm Tadael Shewarega!<br><br>### 🌐 Full Stack Developer | Node.js | React | Express<br><br>### 🏆 Competitive Programming Enthusiast<br><br>🔭 I'm passionate about building robust and scalable web applications using cutting-edge technologies. With a strong foundation in full-stack development, I specialize in Node.js, React, and Express.<br>
+<br>
+🚀 I am constantly expanding my skill set and staying up to date with the latest trends in web development. I'm a strong believer in clean code, test-driven development, and continuous learning.<br><br>🌟 Let's collaborate on exciting projects and create amazing web experiences together. Feel free to reach out to me via email tadaelshewaregagebre30@gmail.com.
+<br>
 
 
 ## 🌐 Socials:
