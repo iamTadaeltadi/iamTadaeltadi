@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### 🏆 Competitive Programming Enthusiast
 
-I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS,  JavaScript, APIs  and GraphQL and C sharp ASPDOTNET and ML.
+I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS,  JavaScript, APIs  and GraphQL and C sharp ASPDOTNET and ML sice 2020 i am giving back to community by giving math education to  highschool student  .
 
 🚀 I am constantly expanding my skill set and staying up to date with the latest trends in web development. I'm a strong believer in clean code, test-driven development, and continuous learning.
 
