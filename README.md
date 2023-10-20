@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### 🏆 Competitive Programming Enthusiast
 
-🔭 I'm passionate about building robust and scalable web applications using cutting-edge technologies. With a strong foundation in full-stack development, I specialize in Node.js, React, and Express.
+I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS,  JavaScript, APIs  and GraphQL and C sharp ASPDOTNET and ML.
 
 🚀 I am constantly expanding my skill set and staying up to date with the latest trends in web development. I'm a strong believer in clean code, test-driven development, and continuous learning.
 
