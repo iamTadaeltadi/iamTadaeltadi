@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## 👋 Hello, I'm Tadael Shewarega!
 
-### 🌐 Full Stack Developer | Node.js | React | Express
+### 🌐 Full Stack Developer 
 
 ### 🏆 Competitive Programming Enthusiast
 
